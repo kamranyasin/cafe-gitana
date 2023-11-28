@@ -1,0 +1,149 @@
+/* .store-card {
+  background-color: black;
+  height: 22rem;
+  width: 300px;
+  box-shadow: -3px 2px 48px 1px rgba(0, 0, 0, 0.73);
+  -webkit-box-shadow: -3px 2px 48px 1px rgba(0, 0, 0, 0.73);
+  -moz-box-shadow: -3px 2px 48px 1px rgba(0, 0, 0, 0.73);
+  border-radius: 10px;
+  padding: 10px;
+}
+.store-page-heading {
+  color: black;
+  font-size: 40px;
+  font-family: cursive;
+  font-weight: 600;
+  margin-bottom: 30px;
+  display: block;
+  width: 100%;
+}
+.center {
+  display: flex;
+  justify-content: center;
+}
+.store-img {
+  height: 185px;
+  width: 100%;
+}
+.store-card-heading {
+  width: 100%;
+
+  text-align: center;
+}
+.store-card-heading span {
+  font-size: 22px;
+  font-family: cursive;
+  color: white;
+  text-transform: capitalize;
+}
+.store-card-row {
+ 
+  display: flex;
+  padding: 20px 10px 20px 10px;
+}
+.price {
+  width: 40%;
+  text-align: start;
+  font-size: 20px;
+  font-family: cursive;
+  color: white;
+}
+.store-card-button {
+  width: 100%;
+ 
+  text-align: end;
+}
+.stockGreen {
+  width: 60%;
+  text-align: end;
+  font-size: 20px;
+  font-family: cursive;
+  color: rgb(55, 158, 55);
+  text-transform: capitalize;
+}
+.mb--40 {
+  margin-bottom: 40px;
+}
+.stockRed {
+  width: 60%;
+  text-align: end;
+  font-size: 20px;
+  font-family: cursive;
+  color: rgb(150, 48, 48);
+  text-transform: capitalize;
+}
+.store-button {
+  background-color: #862222;
+  border: 1px solid #862222;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: cursive;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+.size {
+  font-family: cursive;
+  color: black;
+}
+
+.size-store {
+  font-family: cursive;
+  color: white;
+}
+.size-justify-around {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.ant-radio-checked .ant-radio-inner {
+  border-color: #862222 !important ;
+}
+
+.ant-radio-checked .ant-radio-inner:after {
+  background-color: #862222;
+}
+
+.ant-radio:hover .ant-radio-inner {
+  border-color: #862222;
+}
+.flip-card {
+  background-color: transparent;
+  height: 185px;
+  width: 100%;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  height: 185px;
+  width: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  height: 185px;
+  width: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: #bbb;
+  color: black;
+}
+
+.flip-card-back {
+  background-color: #2980b9;
+  color: white;
+  transform: rotateY(180deg);
+} */

@@ -1,0 +1,104 @@
+/* .staff-heading {
+  color: black;
+  font-family: cursive;
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  margin-bottom: 40px;
+}
+.staff-card {
+  background-color: white;
+  height: 22rem;
+  width: 450px;
+  box-shadow: 10px 15px 47px 23px rgb(0 0 0 / 62%);
+  -webkit-box-shadow: 10px 15px 47px 23px rgb(0 0 0 / 62%);
+  -moz-box-shadow: 10px 15px 47px 23px rgba(0, 0, 0, 0.62);
+  border-radius: 10px;
+  padding: 10px;
+}
+.staff-card-content {
+  color: black;
+  font-size: 22px;
+  font-family: cursive;
+  font-weight: 400;
+  text-transform: capitalize;
+  display: block;
+  margin: 10px 0px 10px 0px;
+}
+.table-heading {
+  background-color: #f5f5f5;
+  font-family: "Lato";
+  font-size: 14px;
+  width: 17%;
+  padding: 13px;
+  font-weight: 600;
+  text-transform: capitalize;
+  text-align: left;
+  border: 1px solid rgb(189 187 181);
+}
+.Lima-logo {
+  width: 90px;
+  height: 40px;
+  margin-right: 10px;
+}
+.table td {
+  border: 1px solid rgb(214, 214, 214);
+}
+.table th {
+  border: 1px solid rgb(214, 214, 214);
+  background-color: #f5f5f5;
+  width: 10%;
+}
+.table-data {
+  background-color: #fff !important;
+  font-family: "Lato";
+  padding: 13px;
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+
+.pending {
+  color: #ff4d4f;
+}
+.done {
+  color: green;
+}
+.m-r-10 {
+  margin-right: 10px;
+}
+.btn-done {
+  color: white;
+  background-color: #862222;
+  border: 1px solid #862222;
+  padding: 6px 12px 6px 12px;
+  border-radius: 10px;
+}
+.view-img {
+  margin-top: 15px;
+  height: 151px;
+  margin-bottom: 15px;
+}
+.view-text {
+  font-size: 18px;
+  color: black;
+  text-transform: capitalize;
+  margin-right: 3px;
+}
+.view-text-bold {
+  font-size: 18px;
+  color: black;
+  font-weight: 600;
+  text-transform: capitalize;
+} */
+.view-img {
+  margin-top: 15px;
+  height: 151px;
+  margin-bottom: 15px;
+}
+.view-text {
+  margin-left: 13px;
+}

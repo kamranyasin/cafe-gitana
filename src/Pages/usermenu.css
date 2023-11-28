@@ -1,0 +1,163 @@
+/* .img-usermenu {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+}
+.userMenu-heading {
+  font-size: 40px;
+  font-family: cursive;
+  font-weight: 600;
+  color: black;
+  margin: 40px 0px 20px 0px;
+}
+.item-name {
+  font-size: 20px;
+  margin-top: 10px;
+  font-family: cursive;
+  text-transform: capitalize;
+}
+.item-name-store {
+  font-size: 20px;
+  margin-top: 10px;
+  font-family: cursive;
+  text-transform: capitalize;
+  color: white;
+}
+.order-checkbox {
+  margin-top: 20px;
+}
+.user-menu-heading-wrapper {
+  display: flex;
+
+  justify-content: space-around;
+  align-items: center;
+}
+.menu-button {
+  background-color: #862222;
+  color: white;
+  font-family: cursive;
+  font-weight: 600;
+  border: 1px solid white;
+  border-radius: 21px;
+  width: 130px;
+  height: 45px;
+  border: 1px solid #862222;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.mr {
+  margin: 10px;
+}
+.order {
+  color: black;
+  font-size: 22px;
+  font-family: cursive;
+  text-transform: capitalize;
+  margin: 0px 5px 0px 5px;
+}
+.tableTitle {
+  color: #862222 !important;
+  text-transform: capitalize;
+}
+.menu-order-wrapper {
+  border: 1px solid #862222;
+  margin-left: 10px;
+  width: 30rem;
+  margin-right: 10px;
+  height: 300px;
+  overflow-y: scroll;
+  border-radius: 4px;
+}
+.menu-button-wrapper {
+  margin: 40px 0px 20px 0px;
+}
+.order-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 5px;
+}
+.alert-center {
+  justify-content: center;
+  display: flex;
+}
+.total {
+  width: 207px;
+  border: 1px solid white;
+  padding: 7px;
+  border-radius: 6px;
+  font-size: 22px;
+  font-family: auto;
+  font-weight: 600;
+  background: #862222;
+  color: white;
+}
+
+.order-row {
+  width: 100%;
+  display: flex;
+}
+.order-col-6 {
+  width: 50%;
+}
+.error {
+  font-size: 22px;
+  font-family: cursive;
+  color: rgb(158, 91, 91);
+  text-align: center;
+}
+.bucket-heading-wrapper {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid black;
+  margin-top: 5px;
+  margin-bottom: 7px;
+}
+.bucket-heading {
+  font-size: 22px;
+  font-family: cursive;
+  color: #862222;
+}
+.name {
+  font-size: 30px;
+  font-family: cursive;
+  color: #862222;
+}
+.menu-email-agree {
+  font-size: 21px;
+  font-family: cursive;
+}
+.mtb-15 {
+  margin-top: 15px;
+
+  text-align: center;
+  margin-bottom: 15px;
+}
+.table-number {
+  font-size: 30px;
+  font-family: cursive;
+  color: #862222;
+}
+.mar-auto {
+  margin: auto;
+}
+@media only screen and (max-width: 600px) {
+    .menu-order-wrapper {
+    width: 20rem;
+  }
+  .mobile-table-scroll {
+    overflow: auto;
+    width: 22rem;
+  }
+} */
+.alig {
+  justify-content: flex-end;
+}
+@media (max-width: 600px) {
+  .alig {
+    justify-content: center;
+    margin: 12px 0px;
+  }
+  .aligt {
+    justify-content: center;
+  }
+}

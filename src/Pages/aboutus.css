@@ -1,0 +1,38 @@
+/* .about-us-cover {
+  display: flex;
+  background: url(../Asserts/about-us-cover.jpg) center center / 100% 100%
+    no-repeat;
+  height: 700px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.cursive {
+  font-family: cursive;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.about-us-heading {
+  font-size: 72px;
+  font-family: cursive;
+  font-weight: 600;
+  color: black;
+  margin: 0px 0px 20px 0px;
+}
+
+.about-us-heading-2 {
+  font-size: 40px;
+  font-family: cursive;
+  font-weight: 600;
+  color: black;
+  margin: 0px 0px 20px 0px;
+}
+.sheesa-bg {
+  background: url(../Asserts/sheesa.png) center center / 100% 100% no-repeat;
+  height: 500px;
+}
+.plr-0 {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+} */

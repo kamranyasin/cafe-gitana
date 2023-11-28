@@ -1,0 +1,369 @@
+{
+    "Main": {
+        "1":"Welcome to Café Gitana / Bienvenue au Café Gitana"
+    },
+    "Mains": {
+        "2":"Are you more then 18 years old? / Avez-vous plus que 18 ans?"
+    },
+    "Nav": {
+        "3":"Home"
+    },
+    "Navs": {
+        "4":"About Us"
+    },
+    "Navss": {
+        "5":"Menu"
+    },
+    "Navsss": {
+        "6":"Our Speciality"
+    },
+    "Navssss": {
+        "7":"Store"
+    },
+    "Navsssss": {
+        "8":"Contact US"
+    },
+    "Home": {
+        "9":"Eat,Sleep,Repeat"
+    },
+    "Homes": {
+        "10":"Menu"
+    },
+    "Homess": {
+        "11":"Store"
+    }, 
+    "his":{
+        "12": "ESTD. 2021"
+    },
+    "hist":{
+        "13": "The History"
+    },
+    "histo": {
+        "14":"Since its creation in 2001, the Café gitana is for many Montrealers a weekly leisure destination, that appears on several tourists' agenda as well Its authentic Middle Eastem decoration and menu make it an establishment of exception Our business distinguishes itself due to the quality and diversity of its products, as well as by the efficiency of its specialized service. Enjoying the unique atmosphere of our café is, in itself, travelling through the many cultures reflected by institution."
+    },
+    "rea": {
+        "15":"Whether you have a question or a suggestion we are there for you."
+    },
+    "reac": {
+        "16":"Reach Out !"
+    },
+    "send":{
+        "17":"Send Message"
+    },
+    "sto": {
+        "18":"Our Story"
+    },
+    "about": {
+        "19":"Depuis sa création en 2001, le Café gitana est pour de nombreux Montréalais une destination de loisirs hebdomadaire, qui figure également à l'agenda de plusieurs touristes. Sa décoration et sa carte authentiques du Moyen-Orient en font un établissement d'exception. Notre entreprise se distingue par la qualité et la diversité de ses produits, ainsi que par l'efficacité de son service spécialisé. Profiter de l'atmosphère unique de notre café, c'est, en soi, voyager à travers les nombreuses cultures reflétées par notre institution."
+    },
+    "abouts": {
+        "20":"Notre établissement est l'un des rares à posséder un permis pour la consommation de tabac à l'intérieur (plusieurs conditions s'appliquent) (18 ans et plus)"
+    },
+    "aboutss": {
+        "21":"Notre vaste choix de produits de qualité vous fera vivre une expérience hors du commun, que vous choisissiez un cigare d'Amérique latine ou une pipe à eau du moyen orient. Notre établissement unique saura combler toutes vos envies avec nos thés, cafés, salep, bières Unibroue, nos cocktails ou encore notre sélection d'alcools forts. De plus, nous proposons des animations telles que de la musique live ou des spectacles de danse baladi les vendredis et samedis (Sauf cas particuliers, merci de nous contacter pour plus de détails)."
+    },
+    "aboutsss": {
+        "22":"Notre mission : votre satisfaction. Au sein de notre établissement, nous vous proposons un voyage unique et une aventure exceptionnelle."
+    },
+    "aboutssss": {
+        "23":"Avec nos 20 ans d'expérience, nous avons ce qu'il faut pour vous satisfaire et faire en sorte que vous reveniez ! Qu'attendez-vous pour partir à l'aventure sans avoir besoin de votre passeport ?"
+    },
+    "cnt":{
+        "24":"We Offer You an Unforgettable Dining Experience"
+    },
+    "ours":{
+        "25":"Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget,"
+    },
+    "ourss":{
+        "26":"elementum vel, cursus eleifend, elit."
+    },
+    "contact":{
+        "27":"Contact Us"
+    },
+    "loc":{
+        "28":"Our Location"
+    },
+    "loca":{
+        "29":"location_on"
+    },
+    "locat":{
+        "30":"2080, rue Saint-Denis"
+    },
+    "locati":{
+        "31":"Montreal, QC, Canada"
+    },
+    "locatio":{
+        "32":"H2X 3K7"
+    },
+    "location":{
+        "33":"Get Direction"
+    },
+    "mail":{
+        "34":"info@cafegitana.com"
+    },
+    "we":{
+        "35":"We'd Love To Hear From You!"
+    },
+    "wes":{
+        "36":"If you have any further enquiries, please use the form below."
+    },
+    "op":{
+        "37":"We Are Open"
+    },
+    "ope":{
+        "38":"Brunch"
+    },
+    "open":{
+        "39":"Saturday: 10am – 2pm "
+    },
+    "opens":{
+        "40":"Sunday: 10am – 10pm"
+    },
+    "din":{
+        "41":"Dinner"
+    },
+    "dine":{
+        "42":"Monday – Thursday: 5pm – 10pm "
+    },
+    "diner":{
+        "43":"Friday – Saturday: 4pm – 11pm"
+    },
+    "hap":{
+        "44":"Happy Hour"
+    },
+    "happ":{
+        "45":"Monday – Thursday: 5pm – 6pm "
+    },
+    "happy":{
+        "46":"Friday – Saturday: 2pm – 4pm"
+    },
+    "right":{
+        "47":" Copyright © 2021 Softhrive. All Rights Reserved."
+    },
+    "foot":{
+        "48":"Join Our Mailing List"
+    },
+    "foots":{
+        "49":"Sign up now and get news and special offers."
+    },
+    "stay":{
+        "50":"Stay Connected"
+    },
+    "social":{
+        "51":"Follow us on social media channels"
+    },
+    "lity":{
+        "52":"Our Specialites"
+    },
+    "car":{
+        "53":"Cart"
+    },
+    "checkout":{
+        "54":"Checkout"
+    },
+    "image":{
+        "55":"Images"
+    },
+    "images":{
+        "56":"Product"
+    },
+    "imagess":{
+        "57":"Price"
+    },
+    "imagesss":{
+        "58":"Quantity"
+    },
+    "gst":{
+        "59":"GST:"
+    },
+    "qst":{
+        "60":"QST:"
+    },
+    "tot":{
+        "61":"Total:"
+    },
+    "submit":{
+        "62":"Submit"
+    },
+    "Me":{
+        "63":"Name"
+    },
+    "Men":{
+        "64":"SurName"
+    },
+    "Menu":{
+        "65":"Phone Number"
+    },
+    "Menus":{
+        "66":"Email Address"
+    },
+    "Menuss":{
+        "67":"Table Number"
+    },
+    "please":{
+        "68":"Please enter your table number to proceed to the Menu"
+    },
+    "continue":{
+        "69":"Continue"
+    },
+    "special":{
+        "70":"Our Specialities"
+    },
+    "error":{
+        "71":"Error No Table found"
+    },
+    "hi":{
+        "72":"Hi"
+    },
+    "table":{
+        "73":"Table Number"
+    },
+    "subt":{
+        "74":"Subtotal"
+    },
+    "order":{
+        "75":"Order"
+    },
+    "tea":{
+        "76":"Tea"
+    },
+    "vmenu":{
+        "77":"View Menu"
+    },
+    "smoking":{
+        "78":"Smoking"
+    },
+    "storing":{
+        "79":"View Store"
+    },
+    "bars":{
+        "80":"Bar"
+    },
+    "specilities":{
+        "81":"View our Speciality"
+    },
+    "price":{
+        "82":"Price:"
+    },
+    "taxes":{
+        "83":"Taxes"
+    },
+    "stripe":{
+        "84":"Stripe"
+    },
+    "paypal":{
+        "85":"Paypal"
+    },
+    "come":{
+        "86":"Come and Discover our best products !"
+    },
+    "condition":{
+        "87":"Do you agree with our terms and conditions"
+    },
+    "would":{
+        "88":"Would you like to subscribe to our Newsletter"
+    },
+    "amazon":{
+        "89":"Amazon.ca store"
+    },
+    "name":{
+        "90":"Name"
+    },
+    "desc":{
+        "91":"description"
+    },
+    "del":{
+        "92":"Delete"
+    },
+    "sure":{
+        "93":"Are you sure to delete this item?"
+    },
+    "itemdet":{
+        "94":"Items Details"
+    },
+    "action":{
+        "95":"Action"
+    },
+    "avail":{
+        "96":"Avialable"
+    },
+    "unavail":{
+        "97":"NotAvailable"
+    },
+    "stor":{
+        "98":"Store"
+    },
+    "upload":{
+        "99":"Upload"
+    },
+    "orders":{
+        "100":"Orders List"
+    },
+    "customer":{
+        "101":"Customer Name"
+    },
+    "purchased":{
+        "102":"No of Purchased Items"
+    },
+    "puitems":{
+        "103":"Purchased Items"
+    },
+    "paida":{
+        "104":"Total Paid Amount"
+    },
+    "email":{
+        "105":"Email"
+    },
+    "shiping":{
+        "106":"Shipping Address"
+    },
+    "payment":{
+        "107":"Payment Method"
+    },
+    "olist":{
+        "108":"OrdersList is empty"
+    },
+    "time":{
+        "109":"Time"
+    },
+    "cartdetails":{
+        "110":"Cart Buyer Details "
+    },
+    "menuorder":{
+        "111":"Menu Order"
+    },
+    "orqueue":{
+        "112":"Orders Queue"
+    },
+    "supchat":{
+        "113":"Support Chats"
+    },
+    "logout":{
+        "114":"Log out"
+    },
+    "cmenu":{
+        "115":"Create Menu "
+    },
+    "create":{
+        "116":"Create"
+    },
+    "citems":{
+        "117":"Create Items "
+    },
+    "idetail":{
+        "118":"Items Details "
+    },
+    "termscond":{
+        "119":"TERMS & CONDITIONS"
+    }
+
+ 
+
+
+
+
+   
+
+
+
+}
